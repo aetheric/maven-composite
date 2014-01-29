@@ -1,0 +1,5 @@
+= Maven Composite - Jetty
+
+This composite deals with jetty dependencies, and everything needed to make a
+jetty instance work properly. Servlet 3 is included for good measure.
+
