@@ -9,7 +9,7 @@
 
 	<groupId>nz.co.aetheric.maven</groupId>
 	<artifactId>composite-jawr</artifactId>
-	<version>1.1.0-SNAPSHOT</version>
+	<version>1.1.0</version>
 	<packaging>jar</packaging>
 
 	<name>Maven Composite - Jawr</name>
@@ -33,4 +33,8 @@
 		</dependency>
 
 	</dependencies>
+
+  <scm>
+    <tag>composite-jawr-1.1.0</tag>
+  </scm>
 </project>
