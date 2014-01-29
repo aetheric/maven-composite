@@ -1,0 +1,5 @@
+= Maven Composite - Logging
+
+This composite deals with logging dependencies. Currently set up to use slf4j
+with the official log4j over slf4j bridge (to avoid log4j class dependencies).
+
