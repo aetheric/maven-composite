@@ -1,0 +1,4 @@
+= Maven Composite - Jawr
+
+This composite deals with jawr dependencies. Uses the YUI compressor instead of the default because libraries like
+jquery cause the default to shit kittens.
