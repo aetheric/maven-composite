@@ -9,7 +9,7 @@
 
 	<groupId>nz.co.aetheric.maven</groupId>
 	<artifactId>composite-jetty</artifactId>
-	<version>1.1.1</version>
+	<version>1.1.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Maven Composite - Jetty</name>
@@ -67,8 +67,4 @@
 		</dependency>
 
 	</dependencies>
-
-  <scm>
-    <tag>composite-jetty-1.1.1</tag>
-  </scm>
 </project>
